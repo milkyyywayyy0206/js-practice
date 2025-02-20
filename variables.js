@@ -10,7 +10,7 @@ let facebookAcct = 'Mark Daniel De Guia';
 // 5. Finally log all variables to the console using code runner in vscode.
 console.log('My name is ' + name);
 console.log('I want to become a ' + whatDoYouWannaBecomeInYourLife);
-console.log('gender ' + gender);
-console.log('my facebook acc is' + facebookAcct);
+console.log('gender: ' + gender);
+console.log('my facebook account: ' + facebookAcct);
 
 // 6. Submit answers in your github repository and link it to your google classroom.
